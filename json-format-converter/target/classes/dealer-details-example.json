@@ -1,0 +1,561 @@
+{
+    "messages": [],
+    "locations": [
+        {
+            "locationNo": "ICW191",
+            "inventoryLocationNo": "W191",
+            "createDate": "20130220",
+            "lastModified": "20170728142830",
+            "legalName": "BRIDGESTONE AMERICAS TIRE OPERATION",
+            "streetAddress": "7777 GIANT TIRE PKWY",
+            "city": "Trenton",
+            "state": "SC",
+            "postalCode": "29847",
+            "country": "US",
+            "latitude": "33.6199137",
+            "longitude": "-81.8238208",
+            "retailCategory": "NON-RETAIL",
+            "locationType": "PLANT",
+            "licenseeStore": "N",
+            "guestWiFiAvailable": "N",
+            "militaryIndicator": "N",
+            "lineOfBusiness": "COMMERCIAL",
+            "application": [
+                "OFF-THE-ROAD"
+            ],
+            "brands": [
+                "BRIDGESTONE",
+                "FIRESTONE"
+            ],
+            "temporarilyClosed": "N",
+            "acceptsOnlineAppointments": "N",
+            "holidays": [
+                {
+                    "holidayName": "Christmas Day",
+                    "holidayDateFrom": "12-25-2018",
+                    "holidayDateTo": "12-25-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Christmas Eve",
+                    "holidayDateFrom": "12-24-2018",
+                    "holidayDateTo": "12-24-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Easter",
+                    "holidayDateFrom": "04-01-2018",
+                    "holidayDateTo": "04-01-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Thanksgiving (US)",
+                    "holidayDateFrom": "08-15-2018",
+                    "holidayDateTo": "08-15-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Black Friday (US)",
+                    "holidayDateFrom": "11-23-2018",
+                    "holidayDateTo": "11-23-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Labor Day (US)",
+                    "holidayDateFrom": "09-03-2018",
+                    "holidayDateTo": "09-03-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Memorial Day (US)",
+                    "holidayDateFrom": "05-28-2018",
+                    "holidayDateTo": "05-28-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Day",
+                    "holidayDateFrom": "01-01-2019",
+                    "holidayDateTo": "01-01-2019",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Eve",
+                    "holidayDateFrom": "12-31-2019",
+                    "holidayDateTo": "12-30-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Independence Day (US)",
+                    "holidayDateFrom": "07-04-2018",
+                    "holidayDateTo": "07-04-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                }
+            ]
+        },
+        {
+            "locationNo": "ICW301",
+            "inventoryLocationNo": "W301",
+            "createDate": "20111212",
+            "lastModified": "20170728142830",
+            "legalName": "Bridgestone Bandag LLC - Oxford",
+            "streetAddress": "505 W Industry Dr",
+            "city": "Oxford",
+            "state": "NC",
+            "postalCode": "27565-3591",
+            "country": "US",
+            "latitude": "36.2965607",
+            "longitude": "-78.6106868",
+            "retailCategory": "NON-RETAIL",
+            "locationType": "PLANT",
+            "licenseeStore": "N",
+            "guestWiFiAvailable": "N",
+            "militaryIndicator": "N",
+            "lineOfBusiness": "COMMERCIAL",
+            "application": [
+                "RETREAD"
+            ],
+            "brands": [
+                "BANDAG",
+                "CONTINUUM"
+            ],
+            "temporarilyClosed": "N",
+            "acceptsOnlineAppointments": "N",
+            "holidays": [
+                {
+                    "holidayName": "Christmas Day",
+                    "holidayDateFrom": "12-25-2018",
+                    "holidayDateTo": "12-25-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Christmas Eve",
+                    "holidayDateFrom": "12-24-2018",
+                    "holidayDateTo": "12-24-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Easter",
+                    "holidayDateFrom": "04-01-2018",
+                    "holidayDateTo": "04-01-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Thanksgiving (US)",
+                    "holidayDateFrom": "08-15-2018",
+                    "holidayDateTo": "08-15-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Black Friday (US)",
+                    "holidayDateFrom": "11-23-2018",
+                    "holidayDateTo": "11-23-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Labor Day (US)",
+                    "holidayDateFrom": "09-03-2018",
+                    "holidayDateTo": "09-03-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Memorial Day (US)",
+                    "holidayDateFrom": "05-28-2018",
+                    "holidayDateTo": "05-28-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Day",
+                    "holidayDateFrom": "01-01-2019",
+                    "holidayDateTo": "01-01-2019",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Eve",
+                    "holidayDateFrom": "12-31-2019",
+                    "holidayDateTo": "12-30-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Independence Day (US)",
+                    "holidayDateFrom": "07-04-2018",
+                    "holidayDateTo": "07-04-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                }
+            ]
+        },
+        {
+            "locationNo": "ICW302",
+            "inventoryLocationNo": "W302",
+            "createDate": "20111212",
+            "lastModified": "20180530182605",
+            "legalName": "Bridgestone Bandag LLC - Abilene",
+            "streetAddress": "4750 FM 18",
+            "city": "Abilene",
+            "state": "TX",
+            "postalCode": "79602-2010",
+            "country": "US",
+            "latitude": "32.4297823",
+            "longitude": "-99.6429342",
+            "retailCategory": "NON-RETAIL",
+            "locationType": "PLANT",
+            "licenseeStore": "N",
+            "guestWiFiAvailable": "N",
+            "militaryIndicator": "N",
+            "lineOfBusiness": "COMMERCIAL",
+            "application": [
+                "RETREAD"
+            ],
+            "brands": [
+                "BANDAG",
+                "CONTINUUM"
+            ],
+            "temporarilyClosed": "N",
+            "acceptsOnlineAppointments": "N",
+            "holidays": [
+                {
+                    "holidayName": "Christmas Day",
+                    "holidayDateFrom": "12-25-2018",
+                    "holidayDateTo": "12-25-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Christmas Eve",
+                    "holidayDateFrom": "12-24-2018",
+                    "holidayDateTo": "12-24-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Easter",
+                    "holidayDateFrom": "04-01-2018",
+                    "holidayDateTo": "04-01-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Thanksgiving (US)",
+                    "holidayDateFrom": "08-15-2018",
+                    "holidayDateTo": "08-15-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Black Friday (US)",
+                    "holidayDateFrom": "11-23-2018",
+                    "holidayDateTo": "11-23-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Labor Day (US)",
+                    "holidayDateFrom": "09-03-2018",
+                    "holidayDateTo": "09-03-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Memorial Day (US)",
+                    "holidayDateFrom": "05-28-2018",
+                    "holidayDateTo": "05-28-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Day",
+                    "holidayDateFrom": "01-01-2019",
+                    "holidayDateTo": "01-01-2019",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Eve",
+                    "holidayDateFrom": "12-31-2019",
+                    "holidayDateTo": "12-30-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Independence Day (US)",
+                    "holidayDateFrom": "07-04-2018",
+                    "holidayDateTo": "07-04-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                }
+            ]
+        },
+        {
+            "locationNo": "ICW303",
+            "inventoryLocationNo": "W303",
+            "createDate": "20111212",
+            "lastModified": "20170728142830",
+            "legalName": "Bridgestone Bandag LLC - Long  Beac",
+            "streetAddress": "2500 THOMPSON ST",
+            "city": "LONG BEACH",
+            "state": "CA",
+            "postalCode": "90805-1836",
+            "country": "US",
+            "latitude": "33.8801292",
+            "longitude": "-118.1631768",
+            "retailCategory": "NON-RETAIL",
+            "locationType": "PLANT",
+            "licenseeStore": "N",
+            "guestWiFiAvailable": "N",
+            "militaryIndicator": "N",
+            "lineOfBusiness": "COMMERCIAL",
+            "application": [
+                "RETREAD"
+            ],
+            "brands": [
+                "BANDAG",
+                "CONTINUUM"
+            ],
+            "temporarilyClosed": "N",
+            "acceptsOnlineAppointments": "N",
+            "holidays": [
+                {
+                    "holidayName": "Christmas Day",
+                    "holidayDateFrom": "12-25-2018",
+                    "holidayDateTo": "12-25-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Christmas Eve",
+                    "holidayDateFrom": "12-24-2018",
+                    "holidayDateTo": "12-24-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Easter",
+                    "holidayDateFrom": "04-01-2018",
+                    "holidayDateTo": "04-01-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Thanksgiving (US)",
+                    "holidayDateFrom": "08-15-2018",
+                    "holidayDateTo": "08-15-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Black Friday (US)",
+                    "holidayDateFrom": "11-23-2018",
+                    "holidayDateTo": "11-23-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Labor Day (US)",
+                    "holidayDateFrom": "09-03-2018",
+                    "holidayDateTo": "09-03-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Memorial Day (US)",
+                    "holidayDateFrom": "05-28-2018",
+                    "holidayDateTo": "05-28-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Day",
+                    "holidayDateFrom": "01-01-2019",
+                    "holidayDateTo": "01-01-2019",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Eve",
+                    "holidayDateFrom": "12-31-2019",
+                    "holidayDateTo": "12-30-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Independence Day (US)",
+                    "holidayDateFrom": "07-04-2018",
+                    "holidayDateTo": "07-04-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                }
+            ]
+        },
+        {
+            "locationNo": "ICW304",
+            "inventoryLocationNo": "W304",
+            "createDate": "20111212",
+            "lastModified": "20170728142830",
+            "legalName": "Bridgestone Bandag LLC - Griffin",
+            "streetAddress": "801 Greenbelt Pkwy",
+            "city": "Griffin",
+            "state": "GA",
+            "postalCode": "30223-4518",
+            "country": "US",
+            "latitude": "33.2368361",
+            "longitude": "-84.2360145",
+            "retailCategory": "NON-RETAIL",
+            "locationType": "PLANT",
+            "licenseeStore": "N",
+            "guestWiFiAvailable": "N",
+            "militaryIndicator": "N",
+            "lineOfBusiness": "COMMERCIAL",
+            "application": [
+                "RETREAD"
+            ],
+            "brands": [
+                "BANDAG",
+                "CONTINUUM"
+            ],
+            "temporarilyClosed": "N",
+            "acceptsOnlineAppointments": "N",
+            "holidays": [
+                {
+                    "holidayName": "Christmas Day",
+                    "holidayDateFrom": "12-25-2018",
+                    "holidayDateTo": "12-25-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Christmas Eve",
+                    "holidayDateFrom": "12-24-2018",
+                    "holidayDateTo": "12-24-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Easter",
+                    "holidayDateFrom": "04-01-2018",
+                    "holidayDateTo": "04-01-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Thanksgiving (US)",
+                    "holidayDateFrom": "08-15-2018",
+                    "holidayDateTo": "08-15-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Black Friday (US)",
+                    "holidayDateFrom": "11-23-2018",
+                    "holidayDateTo": "11-23-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Labor Day (US)",
+                    "holidayDateFrom": "09-03-2018",
+                    "holidayDateTo": "09-03-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Memorial Day (US)",
+                    "holidayDateFrom": "05-28-2018",
+                    "holidayDateTo": "05-28-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Day",
+                    "holidayDateFrom": "01-01-2019",
+                    "holidayDateTo": "01-01-2019",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "New Year's Eve",
+                    "holidayDateFrom": "12-31-2019",
+                    "holidayDateTo": "12-30-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                },
+                {
+                    "holidayName": "Independence Day (US)",
+                    "holidayDateFrom": "07-04-2018",
+                    "holidayDateTo": "07-04-2018",
+                    "hoursOpen": "",
+                    "allDayClosure": "Y",
+                    "annualRepeat": "Y"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

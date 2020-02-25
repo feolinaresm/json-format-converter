@@ -1,0 +1,776 @@
+{
+  "locations": [
+    {
+      "locationNo": "MX0001",
+      "inventoryLocationNo": "MX0001"
+    },
+    {
+      "locationNo": "MX0002",
+      "inventoryLocationNo": "MX0002"
+    },
+    {
+      "locationNo": "MX0003",
+      "inventoryLocationNo": "MX0003"
+    },
+    {
+      "locationNo": "MX0004",
+      "inventoryLocationNo": "MX0004"
+    },
+    {
+      "locationNo": "MX0005",
+      "inventoryLocationNo": "MX0005"
+    },
+    {
+      "locationNo": "MX0006",
+      "inventoryLocationNo": "MX0006"
+    },
+    {
+      "locationNo": "MX0007",
+      "inventoryLocationNo": "MX0007"
+    },
+    {
+      "locationNo": "MX0008",
+      "inventoryLocationNo": "MX0008"
+    },
+    {
+      "locationNo": "MX0009",
+      "inventoryLocationNo": "MX0009"
+    },
+    {
+      "locationNo": "MX0010",
+      "inventoryLocationNo": "MX0010"
+    },
+    {
+      "locationNo": "MX0011",
+      "inventoryLocationNo": "MX0011"
+    },
+    {
+      "locationNo": "MX0012",
+      "inventoryLocationNo": "MX0012"
+    },
+    {
+      "locationNo": "MX0013",
+      "inventoryLocationNo": "MX0013"
+    },
+    {
+      "locationNo": "MX0014",
+      "inventoryLocationNo": "MX0014"
+    },
+    {
+      "locationNo": "MX0015",
+      "inventoryLocationNo": "MX0015"
+    },
+    {
+      "locationNo": "MX0016",
+      "inventoryLocationNo": "MX0016"
+    },
+    {
+      "locationNo": "MX0017",
+      "inventoryLocationNo": "MX0017"
+    },
+    {
+      "locationNo": "MX0018",
+      "inventoryLocationNo": "MX0018"
+    },
+    {
+      "locationNo": "MX0019",
+      "inventoryLocationNo": "MX0019"
+    },
+    {
+      "locationNo": "MX0020",
+      "inventoryLocationNo": "MX0020"
+    },
+    {
+      "locationNo": "MX0021",
+      "inventoryLocationNo": "MX0021"
+    },
+    {
+      "locationNo": "MX0022",
+      "inventoryLocationNo": "MX0022"
+    },
+    {
+      "locationNo": "MX0023",
+      "inventoryLocationNo": "MX0023"
+    },
+    {
+      "locationNo": "MX0024",
+      "inventoryLocationNo": "MX0024"
+    },
+    {
+      "locationNo": "MX0025",
+      "inventoryLocationNo": "MX0025"
+    },
+    {
+      "locationNo": "MX0026",
+      "inventoryLocationNo": "MX0026"
+    },
+    {
+      "locationNo": "MX0027",
+      "inventoryLocationNo": "MX0027"
+    },
+    {
+      "locationNo": "MX0028",
+      "inventoryLocationNo": "MX0028"
+    },
+    {
+      "locationNo": "MX0029",
+      "inventoryLocationNo": "MX0029"
+    },
+    {
+      "locationNo": "MX0030",
+      "inventoryLocationNo": "MX0030"
+    },
+    {
+      "locationNo": "MX0031",
+      "inventoryLocationNo": "MX0031"
+    },
+    {
+      "locationNo": "MX0032",
+      "inventoryLocationNo": "MX0032"
+    },
+    {
+      "locationNo": "MX0033",
+      "inventoryLocationNo": "MX0033"
+    },
+    {
+      "locationNo": "MX0034",
+      "inventoryLocationNo": "MX0034"
+    },
+    {
+      "locationNo": "MX0035",
+      "inventoryLocationNo": "MX0035"
+    },
+    {
+      "locationNo": "MX0036",
+      "inventoryLocationNo": "MX0036"
+    },
+    {
+      "locationNo": "MX0037",
+      "inventoryLocationNo": "MX0037"
+    },
+    {
+      "locationNo": "MX0038",
+      "inventoryLocationNo": "MX0038"
+    },
+    {
+      "locationNo": "MX0039",
+      "inventoryLocationNo": "MX0039"
+    },
+    {
+      "locationNo": "MX0040",
+      "inventoryLocationNo": "MX0040"
+    },
+    {
+      "locationNo": "MX0041",
+      "inventoryLocationNo": "MX0041"
+    },
+    {
+      "locationNo": "MX0042",
+      "inventoryLocationNo": "MX0042"
+    },
+    {
+      "locationNo": "MX0043",
+      "inventoryLocationNo": "MX0043"
+    },
+    {
+      "locationNo": "MX0044",
+      "inventoryLocationNo": "MX0044"
+    },
+    {
+      "locationNo": "MX0045",
+      "inventoryLocationNo": "MX0045"
+    },
+    {
+      "locationNo": "MX0046",
+      "inventoryLocationNo": "MX0046"
+    },
+    {
+      "locationNo": "MX0047",
+      "inventoryLocationNo": "MX0047"
+    },
+    {
+      "locationNo": "MX0048",
+      "inventoryLocationNo": "MX0048"
+    },
+    {
+      "locationNo": "MX0049",
+      "inventoryLocationNo": "MX0049"
+    },
+    {
+      "locationNo": "MX0050",
+      "inventoryLocationNo": "MX0050"
+    },
+    {
+      "locationNo": "MX0051",
+      "inventoryLocationNo": "MX0051"
+    },
+    {
+      "locationNo": "MX0052",
+      "inventoryLocationNo": "MX0052"
+    },
+    {
+      "locationNo": "MX0053",
+      "inventoryLocationNo": "MX0053"
+    },
+    {
+      "locationNo": "MX0054",
+      "inventoryLocationNo": "MX0054"
+    },
+    {
+      "locationNo": "MX0055",
+      "inventoryLocationNo": "MX0055"
+    },
+    {
+      "locationNo": "MX0056",
+      "inventoryLocationNo": "MX0056"
+    },
+    {
+      "locationNo": "MX0057",
+      "inventoryLocationNo": "MX0057"
+    },
+    {
+      "locationNo": "MX0058",
+      "inventoryLocationNo": "MX0058"
+    },
+    {
+      "locationNo": "MX0059",
+      "inventoryLocationNo": "MX0059"
+    },
+    {
+      "locationNo": "MX0060",
+      "inventoryLocationNo": "MX0060"
+    },
+    {
+      "locationNo": "MX0061",
+      "inventoryLocationNo": "MX0061"
+    },
+    {
+      "locationNo": "MX0062",
+      "inventoryLocationNo": "MX0062"
+    },
+    {
+      "locationNo": "MX0063",
+      "inventoryLocationNo": "MX0063"
+    },
+    {
+      "locationNo": "MX0064",
+      "inventoryLocationNo": "MX0064"
+    },
+    {
+      "locationNo": "MX0065",
+      "inventoryLocationNo": "MX0065"
+    },
+    {
+      "locationNo": "MX0066",
+      "inventoryLocationNo": "MX0066"
+    },
+    {
+      "locationNo": "MX0067",
+      "inventoryLocationNo": "MX0067"
+    },
+    {
+      "locationNo": "MX0068",
+      "inventoryLocationNo": "MX0068"
+    },
+    {
+      "locationNo": "MX0069",
+      "inventoryLocationNo": "MX0069"
+    },
+    {
+      "locationNo": "MX0070",
+      "inventoryLocationNo": "MX0070"
+    },
+    {
+      "locationNo": "MX0071",
+      "inventoryLocationNo": "MX0071"
+    },
+    {
+      "locationNo": "MX0072",
+      "inventoryLocationNo": "MX0072"
+    },
+    {
+      "locationNo": "MX0073",
+      "inventoryLocationNo": "MX0073"
+    },
+    {
+      "locationNo": "MX0074",
+      "inventoryLocationNo": "MX0074"
+    },
+    {
+      "locationNo": "MX0075",
+      "inventoryLocationNo": "MX0075"
+    },
+    {
+      "locationNo": "MX0076",
+      "inventoryLocationNo": "MX0076"
+    },
+    {
+      "locationNo": "MX0077",
+      "inventoryLocationNo": "MX0077"
+    },
+    {
+      "locationNo": "MX0078",
+      "inventoryLocationNo": "MX0078"
+    },
+    {
+      "locationNo": "MX0079",
+      "inventoryLocationNo": "MX0079"
+    },
+    {
+      "locationNo": "MX0080",
+      "inventoryLocationNo": "MX0080"
+    },
+    {
+      "locationNo": "MX0081",
+      "inventoryLocationNo": "MX0081"
+    },
+    {
+      "locationNo": "MX0082",
+      "inventoryLocationNo": "MX0082"
+    },
+    {
+      "locationNo": "MX0083",
+      "inventoryLocationNo": "MX0083"
+    },
+    {
+      "locationNo": "MX0084",
+      "inventoryLocationNo": "MX0084"
+    },
+    {
+      "locationNo": "MX0085",
+      "inventoryLocationNo": "MX0085"
+    },
+    {
+      "locationNo": "MX0086",
+      "inventoryLocationNo": "MX0086"
+    },
+    {
+      "locationNo": "MX0087",
+      "inventoryLocationNo": "MX0087"
+    },
+    {
+      "locationNo": "MX0088",
+      "inventoryLocationNo": "MX0088"
+    },
+    {
+      "locationNo": "MX0089",
+      "inventoryLocationNo": "MX0089"
+    },
+    {
+      "locationNo": "MX0090",
+      "inventoryLocationNo": "MX0090"
+    },
+    {
+      "locationNo": "MX0091",
+      "inventoryLocationNo": "MX0091"
+    },
+    {
+      "locationNo": "MX0092",
+      "inventoryLocationNo": "MX0092"
+    },
+    {
+      "locationNo": "MX0093",
+      "inventoryLocationNo": "MX0093"
+    },
+    {
+      "locationNo": "MX0094",
+      "inventoryLocationNo": "MX0094"
+    },
+    {
+      "locationNo": "MX0095",
+      "inventoryLocationNo": "MX0095"
+    },
+    {
+      "locationNo": "MX0096",
+      "inventoryLocationNo": "MX0096"
+    },
+    {
+      "locationNo": "MX0097",
+      "inventoryLocationNo": "MX0097"
+    },
+    {
+      "locationNo": "MX0098",
+      "inventoryLocationNo": "MX0098"
+    },
+    {
+      "locationNo": "MX0099",
+      "inventoryLocationNo": "MX0099"
+    },
+    {
+      "locationNo": "MX0100",
+      "inventoryLocationNo": "MX0100"
+    },
+    {
+      "locationNo": "MX0101",
+      "inventoryLocationNo": "MX0101"
+    },
+    {
+      "locationNo": "MX0102",
+      "inventoryLocationNo": "MX0102"
+    },
+    {
+      "locationNo": "MX0103",
+      "inventoryLocationNo": "MX0103"
+    },
+    {
+      "locationNo": "MX0104",
+      "inventoryLocationNo": "MX0104"
+    },
+    {
+      "locationNo": "MX0105",
+      "inventoryLocationNo": "MX0105"
+    },
+    {
+      "locationNo": "MX0106",
+      "inventoryLocationNo": "MX0106"
+    },
+    {
+      "locationNo": "MX0107",
+      "inventoryLocationNo": "MX0107"
+    },
+    {
+      "locationNo": "MX0108",
+      "inventoryLocationNo": "MX0108"
+    },
+    {
+      "locationNo": "MX0109",
+      "inventoryLocationNo": "MX0109"
+    },
+    {
+      "locationNo": "MX0110",
+      "inventoryLocationNo": "MX0110"
+    },
+    {
+      "locationNo": "MX0111",
+      "inventoryLocationNo": "MX0111"
+    },
+    {
+      "locationNo": "MX0112",
+      "inventoryLocationNo": "MX0112"
+    },
+    {
+      "locationNo": "MX0113",
+      "inventoryLocationNo": "MX0113"
+    },
+    {
+      "locationNo": "MX0114",
+      "inventoryLocationNo": "MX0114"
+    },
+    {
+      "locationNo": "MX0115",
+      "inventoryLocationNo": "MX0115"
+    },
+    {
+      "locationNo": "MX0116",
+      "inventoryLocationNo": "MX0116"
+    },
+    {
+      "locationNo": "MX0117",
+      "inventoryLocationNo": "MX0117"
+    },
+    {
+      "locationNo": "MX0118",
+      "inventoryLocationNo": "MX0118"
+    },
+    {
+      "locationNo": "MX0119",
+      "inventoryLocationNo": "MX0119"
+    },
+    {
+      "locationNo": "MX0120",
+      "inventoryLocationNo": "MX0120"
+    },
+    {
+      "locationNo": "MX0121",
+      "inventoryLocationNo": "MX0121"
+    },
+    {
+      "locationNo": "MX0122",
+      "inventoryLocationNo": "MX0122"
+    },
+    {
+      "locationNo": "MX0123",
+      "inventoryLocationNo": "MX0123"
+    },
+    {
+      "locationNo": "MX0124",
+      "inventoryLocationNo": "MX0124"
+    },
+    {
+      "locationNo": "MX0125",
+      "inventoryLocationNo": "MX0125"
+    },
+    {
+      "locationNo": "MX0126",
+      "inventoryLocationNo": "MX0126"
+    },
+    {
+      "locationNo": "MX0127",
+      "inventoryLocationNo": "MX0127"
+    },
+    {
+      "locationNo": "MX0128",
+      "inventoryLocationNo": "MX0128"
+    },
+    {
+      "locationNo": "MX0129",
+      "inventoryLocationNo": "MX0129"
+    },
+    {
+      "locationNo": "MX0130",
+      "inventoryLocationNo": "MX0130"
+    },
+    {
+      "locationNo": "MX0131",
+      "inventoryLocationNo": "MX0131"
+    },
+    {
+      "locationNo": "MX0132",
+      "inventoryLocationNo": "MX0132"
+    },
+    {
+      "locationNo": "MX0133",
+      "inventoryLocationNo": "MX0133"
+    },
+    {
+      "locationNo": "MX0134",
+      "inventoryLocationNo": "MX0134"
+    },
+    {
+      "locationNo": "MX0135",
+      "inventoryLocationNo": "MX0135"
+    },
+    {
+      "locationNo": "MX0136",
+      "inventoryLocationNo": "MX0136"
+    },
+    {
+      "locationNo": "MX0137",
+      "inventoryLocationNo": "MX0137"
+    },
+    {
+      "locationNo": "MX0138",
+      "inventoryLocationNo": "MX0138"
+    },
+    {
+      "locationNo": "MX0139",
+      "inventoryLocationNo": "MX0139"
+    },
+    {
+      "locationNo": "MX0140",
+      "inventoryLocationNo": "MX0140"
+    },
+    {
+      "locationNo": "MX0141",
+      "inventoryLocationNo": "MX0141"
+    },
+    {
+      "locationNo": "MX0142",
+      "inventoryLocationNo": "MX0142"
+    },
+    {
+      "locationNo": "MX0143",
+      "inventoryLocationNo": "MX0143"
+    },
+    {
+      "locationNo": "MX0144",
+      "inventoryLocationNo": "MX0144"
+    },
+    {
+      "locationNo": "MX0145",
+      "inventoryLocationNo": "MX0145"
+    },
+    {
+      "locationNo": "MX0146",
+      "inventoryLocationNo": "MX0146"
+    },
+    {
+      "locationNo": "MX0147",
+      "inventoryLocationNo": "MX0147"
+    },
+    {
+      "locationNo": "MX0148",
+      "inventoryLocationNo": "MX0148"
+    },
+    {
+      "locationNo": "MX0149",
+      "inventoryLocationNo": "MX0149"
+    },
+    {
+      "locationNo": "MX0150",
+      "inventoryLocationNo": "MX0150"
+    },
+    {
+      "locationNo": "MX0151",
+      "inventoryLocationNo": "MX0151"
+    },
+    {
+      "locationNo": "MX0152",
+      "inventoryLocationNo": "MX0152"
+    },
+    {
+      "locationNo": "MX0153",
+      "inventoryLocationNo": "MX0153"
+    },
+    {
+      "locationNo": "MX0154",
+      "inventoryLocationNo": "MX0154"
+    },
+    {
+      "locationNo": "MX0155",
+      "inventoryLocationNo": "MX0155"
+    },
+    {
+      "locationNo": "MX0156",
+      "inventoryLocationNo": "MX0156"
+    },
+    {
+      "locationNo": "MX0157",
+      "inventoryLocationNo": "MX0157"
+    },
+    {
+      "locationNo": "MX0158",
+      "inventoryLocationNo": "MX0158"
+    },
+    {
+      "locationNo": "MX0159",
+      "inventoryLocationNo": "MX0159"
+    },
+    {
+      "locationNo": "MX0160",
+      "inventoryLocationNo": "MX0160"
+    },
+    {
+      "locationNo": "MX0161",
+      "inventoryLocationNo": "MX0161"
+    },
+    {
+      "locationNo": "MX0162",
+      "inventoryLocationNo": "MX0162"
+    },
+    {
+      "locationNo": "MX0163",
+      "inventoryLocationNo": "MX0163"
+    },
+    {
+      "locationNo": "MX0164",
+      "inventoryLocationNo": "MX0164"
+    },
+    {
+      "locationNo": "MX0165",
+      "inventoryLocationNo": "MX0165"
+    },
+    {
+      "locationNo": "MX0166",
+      "inventoryLocationNo": "MX0166"
+    },
+    {
+      "locationNo": "MX0167",
+      "inventoryLocationNo": "MX0167"
+    },
+    {
+      "locationNo": "MX0168",
+      "inventoryLocationNo": "MX0168"
+    },
+    {
+      "locationNo": "MX0169",
+      "inventoryLocationNo": "MX0169"
+    },
+    {
+      "locationNo": "MX0170",
+      "inventoryLocationNo": "MX0170"
+    },
+    {
+      "locationNo": "MX0171",
+      "inventoryLocationNo": "MX0171"
+    },
+    {
+      "locationNo": "MX0172",
+      "inventoryLocationNo": "MX0172"
+    },
+    {
+      "locationNo": "MX0173",
+      "inventoryLocationNo": "MX0173"
+    },
+    {
+      "locationNo": "MX0174",
+      "inventoryLocationNo": "MX0174"
+    },
+    {
+      "locationNo": "MX0175",
+      "inventoryLocationNo": "MX0175"
+    },
+    {
+      "locationNo": "MX0176",
+      "inventoryLocationNo": "MX0176"
+    },
+    {
+      "locationNo": "MX0177",
+      "inventoryLocationNo": "MX0177"
+    },
+    {
+      "locationNo": "MX0178",
+      "inventoryLocationNo": "MX0178"
+    },
+    {
+      "locationNo": "MX0179",
+      "inventoryLocationNo": "MX0179"
+    },
+    {
+      "locationNo": "MX0180",
+      "inventoryLocationNo": "MX0180"
+    },
+    {
+      "locationNo": "MX0181",
+      "inventoryLocationNo": "MX0181"
+    },
+    {
+      "locationNo": "MX0182",
+      "inventoryLocationNo": "MX0182"
+    },
+    {
+      "locationNo": "MX0183",
+      "inventoryLocationNo": "MX0183"
+    },
+    {
+      "locationNo": "MX0184",
+      "inventoryLocationNo": "MX0184"
+    },
+    {
+      "locationNo": "MX0185",
+      "inventoryLocationNo": "MX0185"
+    },
+    {
+      "locationNo": "MX0186",
+      "inventoryLocationNo": "MX0186"
+    },
+    {
+      "locationNo": "MX0187",
+      "inventoryLocationNo": "MX0187"
+    },
+    {
+      "locationNo": "MX0188",
+      "inventoryLocationNo": "MX0188"
+    },
+    {
+      "locationNo": "MX0189",
+      "inventoryLocationNo": "MX0189"
+    },
+    {
+      "locationNo": "MX0190",
+      "inventoryLocationNo": "MX0190"
+    },
+    {
+      "locationNo": "MX0191",
+      "inventoryLocationNo": "MX0191"
+    },
+    {
+      "locationNo": "MX0192",
+      "inventoryLocationNo": "MX0192"
+    },
+    {
+      "locationNo": "MX0193",
+      "inventoryLocationNo": "MX0193"
+    }
+  ]
+}
