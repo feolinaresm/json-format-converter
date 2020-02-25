@@ -7,6 +7,7 @@ import com.jsonformatconverter.models.redesign.number.JsonDealerNumberRedesignMo
 import com.jsonformatconverter.models.redesign.number.JsonDealerNumberResponseModel;
 
 import java.text.DateFormat;
+import java.text.Normalizer;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
@@ -42,13 +43,29 @@ public class ConverterUtils {
             DateFormat dateFormatWithHours = new SimpleDateFormat("yyyyMMddkkmmss");
             String createDateWithHours = dateFormatWithHours.format(dateWithHours);
 
-            String LegalName = dealerDetails.getName().toUpperCase();
+            String LegalName = Normalizer
+                    .normalize(dealerDetails.getName().toUpperCase().trim(), Normalizer.Form.NFD)
+                    .replaceAll("[^\\p{ASCII}]", "");
+
+            String saddr = Normalizer
+                    .normalize(dealerDetails.getSaddr(), Normalizer.Form.NFD)
+                    .replaceAll("[^\\p{ASCII}]", "");
+
+            String city = Normalizer
+                    .normalize(dealerDetails.getCity(), Normalizer.Form.NFD)
+                    .replaceAll("[^\\p{ASCII}]", "");
+
+            String state = Normalizer
+                    .normalize(dealerDetails.getState(), Normalizer.Form.NFD)
+                    .replaceAll("[^\\p{ASCII}]", "");
+
             String retailCategory = "N";
             String locationType = "N";
             String licenseeStore = "N";
             String guestWiFiAvailable = "N";
             String militaryIndicator = "N";
             String lineOfBusiness = "COMMERCIAL";
+
             List<String> aplication = new ArrayList<>();
             if(dealerDetails.getTbr().equals("TRUE")){
                 aplication.add("TRUCK-AND-BUS");
@@ -67,34 +84,26 @@ public class ConverterUtils {
             if(dealerDetails.getFrsrv().equals("TRUE")){
                 brands.add("FIRESTONE");
             }
+
             String temporalyClosed = "N";
             String acceptsOnlineAppointments = "N";
 
-
+            //Compare languaje
             String compare = dealerDetails.getCod().substring(0, 2);
-
             List<JsonDealerDetailsRedesignModel.Holidays> holidays = new ArrayList<>();
 
             if (compare.equals("BR")){
-                JsonDealerDetailsRedesignModel.Holidays Day1 = new JsonDealerDetailsRedesignModel.Holidays("Dia de Natal", "12-25-2020", "12-25-2020", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day2 = new JsonDealerDetailsRedesignModel.Holidays("Boa noite", "12-24-2020", "12-24-2020", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day3 = new JsonDealerDetailsRedesignModel.Holidays("Dia de Ano Novo", "01-01-2021", "01-01-2021", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day4 = new JsonDealerDetailsRedesignModel.Holidays("Véspera de Ano Novo", "12-31-2020", "12-30-2020", "", "Y", "Y");
+                JsonDealerDetailsRedesignModel.Holidays Day1 = new JsonDealerDetailsRedesignModel.Holidays("Natal", "12-25-2020", "12-25-2020", "", "Y", "Y");
+                JsonDealerDetailsRedesignModel.Holidays Day2 = new JsonDealerDetailsRedesignModel.Holidays("Ano Novo", "01-01-2021", "01-01-2021", "", "Y", "Y");
 
                 holidays.add(Day1);
                 holidays.add(Day2);
-                holidays.add(Day3);
-                holidays.add(Day4);
             }else{
-                JsonDealerDetailsRedesignModel.Holidays Day1 = new JsonDealerDetailsRedesignModel.Holidays("Día de navidad", "12-25-2020", "12-25-2020", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day2 = new JsonDealerDetailsRedesignModel.Holidays("Nochebuena", "12-24-2020", "12-24-2020", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day3 = new JsonDealerDetailsRedesignModel.Holidays("Día de año nuevo", "01-01-2021", "01-01-2021", "", "Y", "Y");
-                JsonDealerDetailsRedesignModel.Holidays Day4 = new JsonDealerDetailsRedesignModel.Holidays("Vispera de año nuevo", "12-31-2020", "12-30-2020", "", "Y", "Y");
+                JsonDealerDetailsRedesignModel.Holidays Day1 = new JsonDealerDetailsRedesignModel.Holidays("Navidad", "12-25-2020", "12-25-2020", "", "Y", "Y");
+                JsonDealerDetailsRedesignModel.Holidays Day2 = new JsonDealerDetailsRedesignModel.Holidays("Año nuevo", "01-01-2021", "01-01-2021", "", "Y", "Y");
 
                 holidays.add(Day1);
                 holidays.add(Day2);
-                holidays.add(Day3);
-                holidays.add(Day4);
             }
 
             detailsResponseModel.getLocations()
@@ -105,9 +114,9 @@ public class ConverterUtils {
                                     createDate,
                                     createDateWithHours,
                                     LegalName,
-                                    dealerDetails.getSaddr(),
-                                    dealerDetails.getCity(),
-                                    dealerDetails.getState(),
+                                    saddr,
+                                    city,
+                                    state,
                                     dealerDetails.getZip(),
                                     dealerDetails.getCountry(),
                                     dealerDetails.getLat(),
